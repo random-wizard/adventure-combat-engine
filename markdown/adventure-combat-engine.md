@@ -249,7 +249,7 @@ to allow freedom of movement. They use small simple weapons that are
 easy to hide or carry such as daggers and slings. Dexterity is a rogue's
 prime stat.
 
-| XP      | LVL   | HP    | BAB | Stealth | Skill | Luck |
+| XP      | LVL   | HP    | BAB | Stealth | Skill | LUCK |
 |---------|-------|-------|-----|---------|-------|------|
 | 0       | 1     |  6    | 0   | 7%      | 25%   | +4   |
 | 1250    | 2     | +1d6  | 0   | 14%     | 30%   | +5   |
