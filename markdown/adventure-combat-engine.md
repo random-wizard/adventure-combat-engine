@@ -304,3 +304,76 @@ The referee and players are not resiricted to the professions and
 character races given. In the end, it us your game and virtually any
 professions and character races can be added, in any combination
 desired.
+
+# Multiple Professions
+
+A character may choose to level up in two professions at the same time,
+limited to combinations based on which race they are.
+
+| Race     | Profession     |
+|----------|----------------|
+| Humans   | Warrior/Priest |
+| Gnome    | Mirager/Rogue  |
+| Halfling | Warrior/Rogue  |
+| Elf      | Warrior/Mage   |
+
+The character combines the total number of XP for both classes to reach
+each LVL. The HP are the average between the two professions, rounded
+up. The character is allowed to use the least restrictive weapons and
+armor of the two professions, and gains the higher BAB and LUCK of the
+two professions.
+
+For example; a Warrior/Priest would begin their career with 8 HP and
+would need 3500 XP to reach LVL 2 (2000 from the Warrior and 1500 from
+the Pirest profession). Their BAB would be 0. Their LUCK would be +4
+since the Priest LUCK of +4 is higher than the Warrior LUCK of +2. The
+Warrior Priest could use any armor and any weapon since the Warrior
+has no restrictions.
+
+At the referee's discretion, other profession combinations can be
+allowed. For example, In a particular campaign, Elves may have mastered
+all magic and can be a Mage/Priests.
+
+# Equipment
+
+## Weapons
+
+| Weapon           | DMG  | Cost|
+|------------------|------|-----|
+| Club             | 1d4  |     |
+| Dagger           | 1d4  |     |
+| Sling Stone      | 1d4  |     |
+| Arrow            | 1d6  |     |
+| Bolt             | 1d6  |     |
+| Hand Axe         | 1d6  |     |
+| Javelin          | 1d6  |     |
+| Mace             | 1d6  |     |
+| Quarterstaff     | 1d6  |     |
+| War Hammer       | 1d6  |     |
+| Battle Axe       | 1d6  |     |
+| Flail            | 1d8  |     |
+| Lance            | 1d8  |     |
+| Morning Star     | 1d8  |     |
+| Sword            | 1d8  |     |
+| Pole Arm         | 1d10 |     |
+| Short Sword      | 1d6  |     |
+| Spear            | 1d6  |     |
+| Two Handed Axe   | 1d10 |     |
+| Two Handed Sword | 1d10 |     |
+
+## Armor
+
+| Armor                     | AC | Cost |
+|---------------------------|----|------|
+| None                      | 10 |      |
+| Cloth                     | 11 |      |
+| Leather, Quilted Cloth    | 12 |      |
+| Studded Leather, Hide     | 13 |      |
+| Metal Scale               | 14 |      |
+| Chainmail                 | 15 |      |
+| Lamellar, Elven Chainmail | 16 |      |
+| Plate Mail                | 17 |      |
+| Full Metal Plate          | 18 |      |
+| Shield                    | +1 |      |
+
+A shield adds 1 point to AC.
