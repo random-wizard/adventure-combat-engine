@@ -125,15 +125,15 @@ Score     | Modifier |
  16-17    | +2       |
  18       | +3       |
 
--Add STR modifier to BAB.
--Add STR modifier to DMG.
--Add DEX modifier * 5% to thief skill rolls.
--Add DEX modifier to AC.
--Add DEX modifier to INI.
--Add CON modifier to HP.
--Add CON modifier to cheating death.
--Add WIS modifier to LUCK rolls.
--Add CHA modifier to RCT rolls.
+- Add STR modifier to BAB.
+- Add STR modifier to DMG.
+- Add DEX modifier * 5% to thief skill rolls.
+- Add DEX modifier to AC.
+- Add DEX modifier to INI.
+- Add CON modifier to HP.
+- Add CON modifier to cheating death.
+- Add WIS modifier to LUCK rolls.
+- Add CHA modifier to RCT rolls.
 
 Notes
 
