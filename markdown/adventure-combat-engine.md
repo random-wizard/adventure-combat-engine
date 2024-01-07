@@ -125,15 +125,15 @@ Score     | Modifier |
  16-17    | +2       |
  18       | +3       |
 
-- Add STR modifier to BAB.
-- Add STR modifier to DMG.
-- Add DEX modifier * 5% to thief skill rolls.
-- Add DEX modifier to AC.
-- Add DEX modifier to INI.
-- Add CON modifier to HP.
-- Add CON modifier to cheating death.
-- Add WIS modifier to LUCK rolls.
-- Add CHA modifier to reaction rolls.
+-Add STR modifier to BAB.
+-Add STR modifier to DMG.
+-Add DEX modifier * 5% to thief skill rolls.
+-Add DEX modifier to AC.
+-Add DEX modifier to INI.
+-Add CON modifier to HP.
+-Add CON modifier to cheating death.
+-Add WIS modifier to LUCK rolls.
+-Add CHA modifier to RCT rolls.
 
 Notes
 
@@ -151,7 +151,7 @@ is also added each time the character goes up a level
 
 A warrior is a professional combatant who has undergone rigorous
 training. They are proficient in wearing various types of armor and
-wielding a range of weapons. Strength is crucial to their performance.
+wielding a range of weapons. STR is a warrior's prime stat.
 
 | XP      | LVL   | HP    | BAB | ATK  | LUCK |
 |---------|-------|-------|-----|------|------|
@@ -170,7 +170,7 @@ wielding a range of weapons. Strength is crucial to their performance.
 
 A mage possesses the ability to cast potent magic spells;
 however, they cannot wear armor and are restricted to using daggers or
-staves as weapons. Intelligence is crucial to their performance.
+staves as weapons. INT is a mage's prime stat.
 
 | XP      | LVL   | HP    | BAB | SP1 | SP2 | SP3 | SP4 | SP5 | LUCK |
 |---------|-------|-------|-----|-----|-----|-----|-----|-----|------|
@@ -194,7 +194,7 @@ mage spells (the SP2 column).
 
 A mirager is a specialized mage that utilizes illusion based
 spells. They can not wear armor and restricted to using daggers or
-staves as weapons. Intelligence is crucial to their performance.
+staves as weapons. INT is a mirager's prime stat.
 
 
 | XP      | LVL   | HP    | BAB | SP1 | SP2 | SP3 | SP4 | SP5 | LUCK |
@@ -220,7 +220,7 @@ spell (the SP3 column).
 
 A priest is a specialized mage that utilizes healing and
 protective magic. They can not wear armor and are restricted to using
-daggers or staves as weapons. Wisdom is crucial to their preformance.
+daggers or staves as weapons. WIS is a priest's prime stat.
 
 | XP      | LVL   | HP    | BAB | SP1 | SP2 | SP3 | SP4 | SP5 | LUCK |
 |---------|-------|-------|-----|-----|-----|-----|-----|-----|------|
@@ -246,8 +246,8 @@ spells (the SP3 column).
 A rogue will possess certain unique skills in acquiring treasure,
 disabling traps, and avoiding danger. They wear leather armor or lighter
 to allow freedom of movement. They use small simple weapons that are
-easy to hide or carry such as daggers and slings. Dexterity is crucial
-to their performance.
+easy to hide or carry such as daggers and slings. Dexterity is a rogue's
+prime stat.
 
 | XP      | LVL   | HP    | BAB | Stealth | Skill | Luck |
 |---------|-------|-------|-----|---------|-------|------|
@@ -271,8 +271,8 @@ like skills; lockpicking, finding and removing traps, pickpocketing,
 etc... the following two skills use a different progression based on the
 following formulas.
 
-Climb Walls = 85% + (1% * LVL)
-Hear Noise = 10% + (2% * LVL)
+- Climb Walls = 85% + (1% * LVL)
+- Hear Noise = 10% + (2% * LVL)
 
 # Character Races
 
