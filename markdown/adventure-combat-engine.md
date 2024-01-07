@@ -15,66 +15,64 @@ that was released under the Creative Commons license.
 
 # Definitions
 
-d: (dice) The dice that need to be rolled for a certain action or effect
-are written in shorthand; 1d6 means roll 1 six sided dice, 2d10 means
-roll 2 ten sided dice and add the totals together, 2d6+6 means roll 2
-six sided dice and add the totals together and then add six.
+**d:** (dice) The dice that need to be rolled for a certain action or
+effect are written in shorthand; 1d6 means roll 1 six sided dice, 2d10
+means roll 2 ten sided dice and add the totals together, 2d6+6 means
+roll 2 six sided dice and add the totals together and then add six.
 
-XP: (Experience Points) gives the
-minimum number of experience points needed to reach a particular
-level of profession. Experience points are usually awarded for
-surviving dangerous encounters, defeating monsters, recovering
-treasure, and learning information that furthers any character
-mission.
+**XP:** (Experience Points) Gives the minimum number of experience
+points needed to reach a particular level of profession. Experience
+points are usually awarded for surviving dangerous encounters, defeating
+monsters, recovering treasure, and learning information that furthers
+any character mission.
 
-LVL: (Level) approximation of how powerful the character
-has become. It is also an indication to the GM what kind of
-adventures are appropriate for the characters, Because of space
-restrictions only 10 levels were given for each profession, but higher
-levels are possible
+**LVL:** (Level) The approximation of how powerful the character has
+become. It is also an indication to the referee what kind of adventures
+are appropriate for the characters, Because of space restrictions only
+10 levels are given for each profession, but higher levels are possible.
 
-HP: (Hit Points) represent a combination of physical and mental
+**HP:** (Hit Points) Represent a combination of physical and mental
 durability, the will to live, and a little bit of luck. Creatures with
 more HP are more difficult to kill. A creature reduced to 0 HP is
 unconcious. A creature reduced to -10 HP is dead. 
 
-Armor Class (AC): the defensive capability of a character or creature.
-The number represents what is needed for an opponent to make a
+**AC:** (Armor Class) The defensive capability of a character or
+creature. The number represents what is needed for an opponent to make a
 successful strike on the target with a 1d20 roll.
 
-BAB: (Basic Attack Bonus) the bonus a character or creature adds to
+**BAB:** (Basic Attack Bonus) The bonus a character or creature adds to
 their 1d20 roll when attempting to make a hit on an opponent.
 
-ATK: (Attack) the number of attacks per round the
-character can make. Note that 3/2 means the character gets two
-attacks on the initial round of combat, then one attack, then two
-attacks, and so on
+**ATK:** (Attack) The number of attacks per round the character can
+make. Note that 3/2 means the character gets two attacks on the initial
+round of combat, then one attack, then two attacks, and so on
 
-DMG: (Damage) how much damage something does. This is usually written
-out in shorthand in various amounds of dice; 1d6, 2d8, 3d6, etc...
+**DMG:** (Damage) How much damage something does. This is usually
+written out in shorthand in various amounds of dice; 1d6, 2d8, 3d6,
+etc...
 
-INI: (Initiative) to determine who goes first in combat, each side rolls
-a 1d6 and the side with the highest roll goes first.
+**INI:** (Initiative) Used to determine who goes first in combat, each
+side rolls a 1d6 and the side with the highest roll goes first.
 
-LUCK: (Luck) Situations often arise in an adventure where a character's,
-luck becomes crucial. The character must roll a 20 on a 1d20 to avoid
-danger. The LUCK score is added to character's roll.
+**LUCK:** (Luck) Situations often arise in an adventure where a
+character's, luck becomes crucial. The character must roll a 20 on a
+1d20 to avoid danger. The LUCK score is added to character's roll.
 
-MV: (Movement) How many feet a creature or character can move in one
+**MV:** (Movement) How many feet a creature or character can move in one
 round.
 
-GP: (Gold Piece) The basic unit of currency in the fantasy world. A
+**GP:** (Gold Piece) The basic unit of currency in the fantasy world. A
 table of equipment will list the cost of things in gold pieces.
 
-SP: (Silver Piece) Ten silver pieces are equal to one gold piece.
+**SP:** (Silver Piece) Ten silver pieces are equal to one gold piece.
 
-ML: (Morale) Creatures may run away or surrender in combat. Morale is
-checked in critical situations. The referee rolls 2d6 and if the result
-is higher than a creatures morale score, the creature will attempt to
-flee.
+**ML:** (Morale) Creatures may run away or surrender in combat. Morale
+is checked in critical situations. The referee rolls 2d6 and if the
+result is higher than a creatures morale score, the creature will
+attempt to flee.
 
-RCT: (Reaction) CHA modifier is added to 2d6 roll to determine a
-creatures reaction.
+**RCT:** (Reaction) A 2d6 roll used by the referee to determine a
+creature's reaction.
 
 | 2d6  | Reaction             |
 |------|----------------------|
@@ -97,20 +95,20 @@ Intelligence, Wisdom, and Charisma. Generate these scores by rolling
 rolls and assign them to any ability scores. Characters are heroes, not
 average individuals.
 
-Strength (STR): measures bodily power, athletic training, and raw
+**Strength:** (STR) Measures bodily power, athletic training, and raw
 physical force. 
 
-Dexterity (DEX): measures agility, reflexes, and balance.
+**Dexterity:** (DEX) Measures agility, reflexes, and balance.
 
-Constitution (CON): measures health, stamina, and life force. 
+**Constitution:** (CON) Measures health, stamina, and life force. 
 
-Intelligence (INT): measures mental acuity, recollection, and
+**Intelligence:** (INT) Measures mental acuity, recollection, and
 ability to reason. 
 
-Wisdom (WIS): measures intuition, perception, and subconcious
+**Wisdom:** (WIS) Measures intuition, perception, and subconcious
 intelligence.
 
-Charisma (CHA):  measures eloquence, charm, and personality.
+**Charisma:** (CHA) Measures eloquence, charm, and personality.
 
 The six ability scores can modify various roll checks and secondary
 scores of the game.
@@ -127,16 +125,17 @@ Score     | Modifier |
  16-17    | +2       |
  18       | +3       |
 
-Add STR modifier to BAB.
-Add STR modifier to DMG.
-Add DEX modifier * 5% to thief skill rolls.
-Add DEX modifier to AC.
-Add DEX modifier to INI.
-Add CON modifier to HP.
-Add CON modifier to cheating death.
-Add WIS modifier to LUCK rolls.
-Add CHA modifier to reaction rolls.
+- Add STR modifier to BAB.
+- Add STR modifier to DMG.
+- Add DEX modifier * 5% to thief skill rolls.
+- Add DEX modifier to AC.
+- Add DEX modifier to INI.
+- Add CON modifier to HP.
+- Add CON modifier to cheating death.
+- Add WIS modifier to LUCK rolls.
+- Add CHA modifier to reaction rolls.
 
+Notes
 
 Cheating Death: CON modifier is used to determine how far below 0 HP the
 character can go and still be unconscious but alive. Thus, a character
