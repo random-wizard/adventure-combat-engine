@@ -380,7 +380,7 @@ A shield adds 1 point to AC.
 
 # Mage Spells
 
-## Rank 1
+## Mage Spells Rank 1
 
 1. Burning Hands (Range:60', Duration:1 round) Creates a 120 arc of
 flame that does 1d6 per caster LVL. Spell variation is freezing hands.
@@ -412,7 +412,7 @@ temporary AC of 3.
 10. Spider Climb (Range:Self, Duration:1 round per LVL) Allows climbing
 sheer walls at 30' round.
 
-## Rank 2
+## Mage Spells Rank 2
 
 1. Darkness (Range:15', Duration:2 turns) Creates a 20' sphere of pitch
 black darkness that blocks non magical light.
@@ -445,7 +445,7 @@ rounds.
 10. Wizard Lock (Range:Touch, Duration: Permanent) Magically locks a
 door until dispelled.
 
-## Rank 3
+## Mage Spells Rank 3
 
 1. Clairvoyance (Range:300’, Duration:1 turn) Can get a dream vision of
 an area within range.
@@ -475,7 +475,7 @@ illusion without any sound. Lasts until touched or disbelieved.
 9. Suggestion (Range:30', Duration:1 hour) Target believes suggestion.
 LUCK roll to disbelieve.
 
-## Rank 4
+## Mage Spells Rank 4
 
 1. Charm Monster (Range:60', Duration:1 hour) Target gets a LUCK roll or
 will listen to caster as a friend. Target will not obey crazy commands.
@@ -505,7 +505,7 @@ variation is wall of ice.
 8. Remove Curse (Range:Touch, Duration:Permanent) Removes magical
 curses.
 
-## Rank 5
+## Mage Spells Rank 5
 
 1. Animate Dead (Range:10’, Duration:Permanent) Animates 1 skeleton or
 zombie per caster LVL.
