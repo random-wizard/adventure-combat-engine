@@ -377,3 +377,159 @@ all magic and can be a Mage/Priests.
 | Shield                    | +1 |      |
 
 A shield adds 1 point to AC.
+
+# Mage Spells
+
+## Rank 1
+
+1. Burning Hands (Range:60', Duration:1 round) Creates a 120 arc of
+flame that does 1d6 per caster LVL. Spell variation is freezing hands.
+
+2. Charm Person (Range:120', Duration:1 hour) Target gets a LUCK roll or
+will listen to caster as a friend. Target will not obey crazy commands.
+
+3. Detect Magic (Range:60’, Duration:1 turn) Magical items will have
+a faint ethereal glow.
+
+4. Identify (Range:Touch, Duration:Instant) Reveals the nature and use
+of an item.
+
+5. Light (Range:60', Duration:1 turn level} Magical light in the
+shape of a sphere floats and follows caster.
+
+6. Magic Missile (Range:150', Duration:Instant) Creates 1 auto hitting
+magical arrow that does 1d4+1 damage. Caster gains another arrow for
+each LVL divided by 2 round down.
+
+7. Read Magic (Range:1', Duration:2 turns) Can read magical writing.
+
+8. Shield (Range:Self, Duration:12 turns per LVL) Gives caster a
+temporary AC of 3.
+
+9. Sleep (Range:60', Duration:1 hour) Affects 4d4 LVL of targets below
+5th LVL if they fail a LUCK roll.
+
+10. Spider Climb (Range:Self, Duration:1 round per LVL) Allows climbing
+sheer walls at 30' round.
+
+## Rank 2
+
+1. Darkness (Range:15', Duration:2 turns) Creates a 20' sphere of pitch
+black darkness that blocks non magical light.
+
+2. Detect Invisibility (Range:90', Duration:1/2 turn per LVL) See
+anything that is magical invisible.
+
+3. ESP (Range:90', Duration:1 turn) Detects the surface thoughts of one
+target.
+
+4. Knock (Range:60', Duration:Instant) Automatically opens a locked
+door.
+
+5. Levitation (Range:150’, Duration:1 turn per LVL) Target can mentally
+control floating up or down.
+
+6. Mirror Image (Range:Self, Duration:1 turn) Creates 1d4 illusory
+duplicate images of the caster.
+
+7. Partial Invisibility (Range:Touch, Duration:1 turn) If target attacks
+then the invisibility dissapates.
+
+8. Strength (Range:Touch, Duration:1 hour per LVL) Raises STR score 1d8
+points. Maximum of 18.
+
+9. Web (Range:30', Duration:1 hour) Holds creatures with less than 18
+STR. Negated by a a successful LUCK roll can be attempted every 4
+rounds.
+
+10. Wizard Lock (Range:Touch, Duration: Permanent) Magically locks a
+door until dispelled.
+
+## Rank 3
+
+1. Clairvoyance (Range:300’, Duration:1 turn) Can get a dream vision of
+an area within range.
+
+2. Dispel Magic (Range:120', Duration:Instant) Disrupts all magic at
+target point.
+
+3. Feign Death (Range:Self, Duration:2 turns) Caster appears to be dead.
+
+4. Fireball (Range:150', Duration:1 round) Does 1d6 DMG per LVL of
+caster to everyone in a sphere with a 20' radius. LUCK roll for half
+DMG.
+
+5. Fly (Range:Touch, Duration:1 turn level) Ariel movement of 180' per
+turn.
+
+6. Haste (Range:60', Duration:1 turn) Target receives double movement
+and double the number of attacks for the duration of the spell.
+
+7. Lightning Bolt (Range:120’, Duration:1 round) Does 1d6 DMG per LVL
+of caster to everyone in a line 10' wide by 40' long. LUCK roll for half
+DMG.
+
+8. Partial Illusion (Range:150', Duration:Special) Makes a visual
+illusion without any sound. Lasts until touched or disbelieved.
+
+9. Suggestion (Range:30', Duration:1 hour) Target believes suggestion.
+LUCK roll to disbelieve.
+
+## Rank 4
+
+1. Charm Monster (Range:60', Duration:1 hour) Target gets a LUCK roll or
+will listen to caster as a friend. Target will not obey crazy commands.
+
+2. Confusion (Range:120', Duration:1 round) 2d4 creatures stand confused
+for one round unless LUCK roll is made.
+
+3. Dimension Door (Range:Self, Duration:Permanent) Creates two
+interconnected doors within visual range allowing teleporting between
+doors when stepped through.
+
+4. Fear (Range:60', Duration:1 round per LVL) Targets in a 20' wide area
+must make a LUCK roll or flee in panic.
+
+5. Ice Storm (Range:60', Duration:1 round) Targets in a 40' wide area
+take 3d10 DMG. LUCK roll for half DMG.
+
+6. Curse (Range:30', Duration:Permanent) Target has some part of their
+body changed shape, disfigured and disabled unless target makes a LUCK
+roll.
+
+7. Wall of Fire (Range:60’, Duration:1 turn per LVL) Wall of fire 10'
+high and 40' long. Does 2d6 (+1 per caster LVL) of DMG to anyone
+touching or passing through wall. LUCK roll for half DMG. Spell
+variation is wall of ice.
+
+8. Remove Curse (Range:Touch, Duration:Permanent) Removes magical
+curses.
+
+## Rank 5
+
+1. Animate Dead (Range:10’, Duration:Permanent) Animates 1 skeleton or
+zombie per caster LVL.
+
+2. Conjure Elemental (Range:60', Duration:1 turn per LVL) Conjures 1
+fire or water or earth or air elemental. Requires caster's complete
+concentration to control.
+
+3. Shape Change (Range:Self, Duration:2 turns per LVL) Caster
+changes physical shape to any non magical creature from the size of a
+mouse to the size of a horse.
+
+4. Stone Shape (Range:Touch, Duration:Permanent) Caster can reshape any
+10 cubic feet of stone.
+
+5. Telekinesis (Range:60', Duration:1 round per LVL) Caster can move
+15 lbs. per LVL at a speed of 60’ per turn.
+
+6. Teleportation (Range:Self, Duration:Instant) Magical, instantaneous
+travel to a known location.
+
+7. Transmute Rock to Mud (Range:60', Duration:1 day) Turns 20 cubic feet
+per LVL of stone into mud.
+
+8. Wall of Force (Range:30', Duration:2 turns) Stops all physical and
+magical forces from passing through. Spell variations are wall of iron
+and wall of stone.
