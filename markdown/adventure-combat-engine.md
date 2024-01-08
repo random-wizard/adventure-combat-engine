@@ -156,15 +156,15 @@ wielding a range of weapons. STR is a warrior's prime stat.
 | XP      | LVL   | HP    | BAB | ATK  | LUCK |
 |---------|-------|-------|-----|------|------|
 | 0       | 1     |  10   | 0   | 1    | +2   |
-| 2000    | 2     | +1d10 | 1   | 1    | +3   |
-| 4000    | 3     | +1d10 | 2   | 1    | +4   |
-| 8000    | 4     | +1d10 | 3   | 1    | +5   |
-| 16000   | 5     | +1d10 | 4   | 1    | +6   |
-| 32000   | 6     | +1d10 | 5   | 3/2  | +7   |
-| 64000   | 7     | +1d10 | 6   | 3/2  | +8   |
-| 125000  | 8     | +1d10 | 7   | 3/2  | +9   |
-| 250000  | 9     | +1d10 | 8   | 3/2  | +10  |
-| +250000 | 10    | +1d10 | 9   | 3/2  | +11  |
+| 2000    | 2     | +1d10 | +1  | 1    | +3   |
+| 4000    | 3     | +1d10 | +2  | 1    | +4   |
+| 8000    | 4     | +1d10 | +3  | 1    | +5   |
+| 16000   | 5     | +1d10 | +4  | 1    | +6   |
+| 32000   | 6     | +1d10 | +5  | 3/2  | +7   |
+| 64000   | 7     | +1d10 | +6  | 3/2  | +8   |
+| 125000  | 8     | +1d10 | +7  | 3/2  | +9   |
+| 250000  | 9     | +1d10 | +8  | 3/2  | +10  |
+| +250000 | 10    | +1d10 | +9  | 3/2  | +11  |
 
 ## Mage
 
@@ -286,15 +286,19 @@ Consider all profession restrictions to be guidelines. If the referee
 and players decide that a Dwarf has discovered how to be a Mage, and
 that would make an interesting campaign, then go for it.
 
-**Humans:** Usually, the most common encountered creature in the fantasy
-world. Humans are around 5'10" tall. They can be any profession. They
-can add 1 point to any ability score they choose.
+## Humans
 
-**Dwarves:** Stocky and muscular, dwarves live in complex tunnels built
-under mountains. Dwarves are around 4'6" tall. Dwarves are renown
-blacksmiths, stone masons, and gem crafting. Dwarves can only be
-warriors. They gain 1 point of STR, and 1 point of CON, but lose 1 point
-of DEX and 1 point of CHA.
+Usually, the most common encountered creature in the fantasy world.
+Humans are around 5'10" tall. They can be any profession. They can add 1
+point to any ability score they choose.
+
+## Dwarves
+
+Stocky and muscular, dwarves live in complex tunnels built under
+mountains. Dwarves are around 4'6" tall. Dwarves are renown blacksmiths,
+stone masons, and gem crafting. Dwarves can only be warriors. They gain
+1 point of STR, and 1 point of CON, but lose 1 point of DEX and 1 point
+of CHA.
 
 Dwarves have the ability to detect secret doors and traps related to
 stonework or metallurgy. Their base chance to detect is 50% + 3% per
@@ -302,10 +306,12 @@ LVL.
 
 Dwarves get a +1 to BAB rolls when using an ax or a hammer.
 
-**Elves:** Elves are slender human like beings with pointy ears. Elves
-are around 5' 6" tall. They have a natural affinity for the forest.
-Elves are renown for woodworking. Elves can be any profession. They gain
-1 point in INT, but lose 1 point of CON.
+## Elves
+
+Elves are slender human like beings with pointy ears. Elves are around
+5' 6" tall. They have a natural affinity for the forest. Elves are
+renown for woodworking. Elves can be any profession. They gain 1 point
+in INT, but lose 1 point of CON.
 
 Elves have keen eyesight and are able to spot hidden or concealed
 features such as secret doors. Their base chance to detect is 50% + 3%
@@ -313,10 +319,12 @@ per LVL.
 
 Elves get a +1 to BAB rolls when using a short bow or long bow.
 
-**Gnomes:** Gnomes are the smaller cousin of dwarves that spend more
-time above the ground then below. Gnomes are renown for tinkering and
-their child like demeanor. Gnomes can be any profession. They gain 1
-point in CHA, but lose 1 point of WIS.
+## Gnomes
+
+Gnomes are the smaller cousin of dwarves that spend more time above the
+ground then below. Gnomes are renown for tinkering and their friendly,
+child like demeanor. Gnomes can be any profession. They gain 1 point in
+CHA, but lose 1 point of WIS.
 
 Gnomes have the ability to detect secret doors and traps related to
 mechanical contraptions. Their base chance to detect is 50% + 3% per
@@ -324,9 +332,11 @@ LVL.
 
 Gnomes get a +1 to BAB rolls when using a crossbow.
 
-**Halflings:** Halflings live in comfortable underground hill dwellings.
-Halfings are renown for cooking and eating meals. Halflings can be
-warrior or rogues. They gain 1 point in DEX, but lose 1 point in STR.
+## Halflings
+
+Halflings live in comfortable underground hill dwellings. Halfings are
+renown for cooking and eating meals. Halflings can be warrior or rogues.
+They gain 1 point in DEX, but lose 1 point in STR.
 
 Halflings are able to hide in shadows, in crowds, or anywhere they might
 achieve concealment. If the halfling is a rogue, they get +10% to their
