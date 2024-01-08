@@ -426,7 +426,7 @@ a faint ethereal glow.
 4. Identify (Range:Touch, Duration:Instant) Reveals the nature and use
 of an item.
 
-5. Light (Range:60', Duration:1 turn level} Magical light in the
+5. Light (Range:60', Duration:1 turn level) Magical light in the
 shape of a sphere floats and follows caster.
 
 6. Magic Missile (Range:150', Duration:Instant) Creates 1 auto hitting
@@ -575,13 +575,13 @@ obey a one word command.
 
 2. Cure Light Wounds (Range:Touch, Duration:Permanent) Heals 1d8+1 HP.
 
-3. Detect Evil (Range:120', Duration:1 hour} Evil creatures and things
+3. Detect Evil (Range:120', Duration:1 hour) Evil creatures and things
 will have a faint ethereal glow.
 
 4. Detect Magic (Range:60’, Duration:1 turn) Magical items will have
 a faint ethereal glow.
 
-5. Light (Range:60', Duration:1 turn level} Magical light in the
+5. Light (Range:60', Duration:1 turn level) Magical light in the
 shape of a sphere floats and follows caster.
 
 6. Protection From Evil (Range:Touch, Duration:3 rounds per LVL) Target
