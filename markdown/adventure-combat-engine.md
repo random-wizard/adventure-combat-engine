@@ -194,7 +194,7 @@ mage spells (the SP2 column).
 
 A mirager is a specialized mage that utilizes illusion based
 spells. They can not wear armor and restricted to using daggers or
-staves as weapons. INT is a mirager's prime stat.
+staves as weapons. CHA is a mirager's prime stat.
 
 
 | XP      | LVL   | HP    | BAB | SP1 | SP2 | SP3 | SP4 | SP5 | LUCK |
@@ -246,7 +246,7 @@ spells (the SP3 column).
 A rogue will possess certain unique skills in acquiring treasure,
 disabling traps, and avoiding danger. They wear leather armor or lighter
 to allow freedom of movement. They use small simple weapons that are
-easy to hide or carry such as daggers and slings. Dexterity is a rogue's
+easy to hide or carry such as daggers and slings. DEX is a rogue's
 prime stat.
 
 | XP      | LVL   | HP    | BAB | Stealth | Skill | LUCK |
@@ -294,7 +294,7 @@ point in INT, but lose 1 point of CON.
 Gnomes: Gnomes are the smaller cousin of dwarves that spend more time
 above the ground then below. Gnomes are renown for tinkering and their
 child like demeanor. Gnomes can be any profession. They gain 1 point
-in INT, but lose 1 point of WIS.
+in CHA, but lose 1 point of WIS.
 
 Halflings: Halflings live in comfortable underground hill dwellings.
 Halfings are renown for cooking and eating meals. Halflings can be
