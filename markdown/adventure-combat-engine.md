@@ -4,7 +4,7 @@ Adventure Combat Engine
 
 Adventure Combat Engine is an easy-to-play fantasy role playing game.
 The rules attempt to be as concise as possible but still provide a solid
-foundation to play a fantasy roleplaying game. Referees and players are
+foundation to play a fantasy role playing game. Referees and players are
 encouraged to make additions to the engine as they play to enhance the
 rules presented in this system.
 
@@ -115,15 +115,15 @@ scores of the game.
 
 Ability Score Modifier Table
 
-Score     | Modifier |
-----------|----------|
- 3        | -3       |
- 4-5      | -2       |
- 6-8      | -1       |
- 9-12     | 0        |
- 13-15    | +1       |
- 16-17    | +2       |
- 18       | +3       |
+|Score     | Modifier |
+|----------|----------|
+| 3        | -3       |
+| 4-5      | -2       |
+| 6-8      | -1       |
+| 9-12     | 0        |
+| 13-15    | +1       |
+| 16-17    | +2       |
+| 18       | +3       |
 
 - Add STR modifier to BAB.
 - Add STR modifier to DMG.
