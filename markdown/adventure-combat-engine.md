@@ -276,34 +276,66 @@ following formulas.
 
 # Character Races
 
-Humans: Usually, the most common encountered creature in the fantasy
+Note on ability scores. Each race gets a modifier to ability scores. If
+a bonus would put the score above 18, then the player has to put the
+bonus in a different stat of their choosing. If a penalty would put the
+score below 3, then the player has to put the penalty in a different
+stat of their choosing.
+
+Consider all profession restrictions to be guidelines. If the referee 
+and players decide that a Dwarf has discovered how to be a Mage, and
+that would make an interesting campaign, then go for it.
+
+**Humans:** Usually, the most common encountered creature in the fantasy
 world. Humans are around 5'10" tall. They can be any profession. They
 can add 1 point to any ability score they choose.
 
-Dwarves: Stocky and muscular, dwarves live in complex tunnels built
+**Dwarves:** Stocky and muscular, dwarves live in complex tunnels built
 under mountains. Dwarves are around 4'6" tall. Dwarves are renown
 blacksmiths, stone masons, and gem crafting. Dwarves can only be
 warriors. They gain 1 point of STR, and 1 point of CON, but lose 1 point
 of DEX and 1 point of CHA.
 
-Elves: Elves are slender human like beings with pointy ears. Elves are
-around 5' 6" tall. They have a natural affinity for the forest. Elves
-are renown for woodworking. Elves can be any profession. They gain 1
-point in INT, but lose 1 point of CON.
+Dwarves have the ability to detect secret doors and traps related to
+stonework or metallurgy. Their base chance to detect is 50% + 3% per
+LVL.
 
-Gnomes: Gnomes are the smaller cousin of dwarves that spend more time
-above the ground then below. Gnomes are renown for tinkering and their
-child like demeanor. Gnomes can be any profession. They gain 1 point
-in CHA, but lose 1 point of WIS.
+Dwarves get a +1 to BAB rolls when using an ax or a hammer.
 
-Halflings: Halflings live in comfortable underground hill dwellings.
+**Elves:** Elves are slender human like beings with pointy ears. Elves
+are around 5' 6" tall. They have a natural affinity for the forest.
+Elves are renown for woodworking. Elves can be any profession. They gain
+1 point in INT, but lose 1 point of CON.
+
+Elves have keen eyesight and are able to spot hidden or concealed
+features such as secret doors. Their base chance to detect is 50% + 3%
+per LVL.
+
+Elves get a +1 to BAB rolls when using a short bow or long bow.
+
+**Gnomes:** Gnomes are the smaller cousin of dwarves that spend more
+time above the ground then below. Gnomes are renown for tinkering and
+their child like demeanor. Gnomes can be any profession. They gain 1
+point in CHA, but lose 1 point of WIS.
+
+Gnomes have the ability to detect secret doors and traps related to
+mechanical contraptions. Their base chance to detect is 50% + 3% per
+LVL.
+
+Gnomes get a +1 to BAB rolls when using a crossbow.
+
+**Halflings:** Halflings live in comfortable underground hill dwellings.
 Halfings are renown for cooking and eating meals. Halflings can be
 warrior or rogues. They gain 1 point in DEX, but lose 1 point in STR.
 
-The referee and players are not resiricted to the professions and
-character races given. In the end, it us your game and virtually any
-professions and character races can be added, in any combination
-desired.
+Halflings are able to hide in shadows, in crowds, or anywhere they might
+achieve concealment. If the halfling is a rogue, they get +10% to their
+rogue stealth skill. Otherwise, their chance to hide is of a rogue of
+their LVL even if they are not a rogue.
+
+Halfings can not use large two handed weapons such as a battle ax or a
+two handed sword. Halflings get a +1 to BAB rolls when using a sling.
+Halflings get a +1 to LUCK rolls.
 
 # Multiple Professions
 
