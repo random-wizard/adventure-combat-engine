@@ -565,3 +565,95 @@ per LVL of stone into mud.
 8. Wall of Force (Range:30', Duration:2 turns) Stops all physical and
 magical forces from passing through. Spell variations are wall of iron
 and wall of stone.
+
+# Priest Spells
+
+## Priest Spells Rank 1
+
+1. Command (Range:10', Duration:1 round) Target gets a LUCK roll or will
+obey a one word command.
+
+2. Cure Light Wounds (Range:Touch, Duration:Permanent) Heals 1d8+1 HP.
+
+3. Detect Evil (Range:120', Duration:1 hour} Evil creatures and things
+will have a faint ethereal glow.
+
+4. Detect Magic (Range:60’, Duration:1 turn) Magical items will have
+a faint ethereal glow.
+
+5. Light (Range:60', Duration:1 turn level} Magical light in the
+shape of a sphere floats and follows caster.
+
+6. Protection From Evil (Range:Touch, Duration:3 rounds per LVL) Target
+gets +2 on LUCK rolls and +2 to AC against evil creatures.
+
+7. Remove Fear (Range:Touch, Duration:1 round) Removes all fear effects.
+
+8. Resist Cold (Range:Touch, Duration:1 turn per LVL) Target gets +3 on
+LUCK rolls vs. cold and any cold DMG is halved.
+
+## Priest Spells Rank 2
+
+1. Augury (Range:Self, Duration:1 round) 75% chance of getting an
+answer to if a course of action will be beneficial or harmful.
+
+2. Chant (Range:30', Duration:1 turn) Allies get +1 to all actions.
+Opponents get -1 to all actions.
+
+3. Find Traps (Range:30', Duration:3 turns) Traps will have a faint
+ethereal glow.
+
+4. Hold Person (Range:60', Duration:1 turn) Stops 1d4 LVL of humanoid
+creatures from moving.
+
+5. Resist Fire (Range:touch, Duration:1 turn per LVL) Target gets +3 on
+LUCK rolls vs. fire and any fire DMG is halved.
+
+6. Silence (Range:120', Duration:1 turn) Prevents any sound, including
+casting of spells in a 15' radius of target.
+
+## Priest Spells Rank 3
+
+1. Animate Dead (Range:10’, Duration:Permanent) Animates 1 skeleton or
+zombie per caster LVL.
+
+2. Cure Blindness (Range:Touch, Duration:Permanent) Cures magical
+blindness.
+
+3. Cure Disease (Range:Touch, Duration:Permanent) Cures magical and
+non magical disease.
+
+4. Dispel Magic (Range:120', Duration:Instant) Disrupts all magic at
+target point.
+
+5. Feign Death (Range:Self, Duration:2 turns) Caster appears to be dead.
+
+6. Remove Curse (Range:Touch, Duration:Permanent) Removes magical
+curses.
+
+## Priest Spells Rank 4
+
+1. Cure Serious Wounds (Range:Touch, Duration:Permanent) Heals 2d8+2 HP.
+
+2. Detect Lie (Range:30', Duration:1 round per LVL) Caster will know if
+any spoken words are lies or not.
+
+3. Exorcise (Range:10', Duration:Permanent) Removes ghost, demon, and
+any other supernatural possession on target.
+
+4. Neutralize Poison (Range:Touch, Duration:Permanent) Cures and removes
+any poison in target.
+
+## Priest Spells Rank 5
+
+1. Cure Critical Wounds (Range:Touch, Duration:Permanent) Heals 3d8+3
+HP.
+
+2. Dispel Evil (Range:Touch, Duration:1 round per LVL) Evil creatures
+must make a LUCK roll or be banished to another dimension.
+
+3. Flame Wind (Range:60', Duration:1 round) Blazing wind fills a 10' x
+30' area doing 6d8 DMG. LUCK roll for half DMG.
+
+4. Raise Dead (Range:30', Duration:Permanent) Target is brought back to
+life with 1 HP.
