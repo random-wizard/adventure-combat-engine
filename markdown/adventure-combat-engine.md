@@ -426,7 +426,7 @@ a faint ethereal glow.
 4. Identify (Range:Touch, Duration:Instant) Reveals the nature and use
 of an item.
 
-5. Light (Range:60', Duration:1 turn level) Magical light in the
+5. Light (Range:60', Duration:1 turn per LVL) Magical light in the
 shape of a sphere floats and follows caster.
 
 6. Magic Missile (Range:150', Duration:Instant) Creates 1 auto hitting
@@ -491,7 +491,7 @@ target point.
 caster to everyone in a sphere with a 20' radius. LUCK roll for half
 DMG.
 
-5. Fly (Range:Touch, Duration:1 turn level) Ariel movement of 180' per
+5. Fly (Range:Touch, Duration:1 turn per LVL) Ariel movement of 180' per
 turn.
 
 6. Haste (Range:60', Duration:1 turn) Target receives double movement
@@ -581,7 +581,7 @@ will have a faint ethereal glow.
 4. Detect Magic (Range:60’, Duration:1 turn) Magical items will have
 a faint ethereal glow.
 
-5. Light (Range:60', Duration:1 turn level) Magical light in the
+5. Light (Range:60', Duration:1 turn per LVL) Magical light in the
 shape of a sphere floats and follows caster.
 
 6. Protection From Evil (Range:Touch, Duration:3 rounds per LVL) Target
