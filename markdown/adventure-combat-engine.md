@@ -20,16 +20,15 @@ effect are written in shorthand; 1d6 means roll 1 six sided dice, 2d10
 means roll 2 ten sided dice and add the totals together, 2d6+6 means
 roll 2 six sided dice and add the totals together and then add six.
 
-**XP:** (Experience Points) Gives the minimum number of experience
-points needed to reach a particular level of profession. Experience
-points are usually awarded for surviving dangerous encounters, defeating
-monsters, recovering treasure, and learning information that furthers
-any character mission.
+**XP:** (Experience Points) Represents how much experience the
+profession has accrued. The referee awards experience points for
+defeating creatures, finding treasure, and other actions that accomplish
+the goals of the group.
 
-**LVL:** (Level) The approximation of how powerful the character has
-become. It is also an indication to the referee what kind of adventures
-are appropriate for the characters, Because of space restrictions only
-10 levels are given for each profession, but higher levels are possible.
+**LVL:** (Level) Represents the power of a character. Professions grant
+more powers, spells, hit points and other benefits with each level a
+character acquires. The referee can use a character's level as a guide
+to how dangerous of an adventure they can handle.
 
 **HP:** (Hit Points) Represent a combination of physical and mental
 durability, the will to live, and a little bit of luck. Creatures with
@@ -56,7 +55,7 @@ side rolls a 1d6 and the side with the highest roll goes first.
 
 **LUCK:** (Luck) Situations often arise in an adventure where a
 character's, luck becomes crucial. The character must roll a 20 on a
-1d20 to avoid danger. The LUCK score is added to character's roll.
+1d20 to avoid danger. The luck score is added to character's roll.
 
 **MV:** (Movement) How many feet a creature or character can move in one
 round.
@@ -74,18 +73,18 @@ attempt to flee.
 **RCT:** (Reaction) A 2d6 roll used by the referee to determine a
 creature's reaction.
 
-| 2d6  | Reaction             |
-|------|----------------------|
-| 2    | Enemy                | 
-| 3-5  | Wary (Reroll -4)     |
-| 6-8  | Uncertain (Reroll)   |
-| 9-11 | Curious (Reroll +4)  |
-| 12   | Friend               |
+| 2d6   | Reaction             |
+|-------|----------------------|
+|  2-3  | Enemy                | 
+|  4-5  | Wary (Reroll -4)     |
+|  6-8  | Uncertain (Reroll)   |
+|  9-10 | Curious (Reroll +4)  |
+| 11-12 | Friend               |
 
-On reroll, wait one round and consider the situation and ongoing
-negotiation and actions. After 3 rounds, if the reaction is not Enemies
-or Friends, the creatures will attempt to withdraw from the situation.
-
+On reroll, wait one round and consider the situation; any ongoing
+negotiation, friendly or threatening actions. After 3 rounds, if the
+reaction is not Enemies or Friends, the creatures will attempt to
+withdraw from the situation.
 
 # Character Ability Scores
 
