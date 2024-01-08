@@ -95,20 +95,20 @@ Intelligence, Wisdom, and Charisma. Generate these scores by rolling
 rolls and assign them to any ability scores. Characters are heroes, not
 average individuals.
 
-**Strength:** (STR) Measures bodily power, athletic training, and raw
+**STR:** (Strength) Measures bodily power, athletic training, and raw
 physical force. 
 
-**Dexterity:** (DEX) Measures agility, reflexes, and balance.
+**DEX:** (Dexterity) Measures agility, reflexes, and balance.
 
-**Constitution:** (CON) Measures health, stamina, and life force. 
+**CON:** (Constitution) Measures health, stamina, and life force. 
 
-**Intelligence:** (INT) Measures mental acuity, recollection, and
+**INT:** (Intelligence) Measures mental acuity, recollection, and
 ability to reason. 
 
-**Wisdom:** (WIS) Measures intuition, perception, and subconcious
+**WIS:** (Wisdom) Measures intuition, perception, and subconcious
 intelligence.
 
-**Charisma:** (CHA) Measures eloquence, charm, and personality.
+**CHA:** (Charisma) Measures eloquence, charm, and personality.
 
 The six ability scores can modify various roll checks and secondary
 scores of the game.
