@@ -806,3 +806,37 @@ duplicate.
 thinking creatures in a 40' x 40' area must make a LUCK roll or be
 confused for the duration of the spell. Even those that shake off the
 effect suffer -2 BAB.
+
+# Monster Statistics
+
+Short hand abbreviations are used to list out creatures abilities and
+statistics. For example, a typical statistic block for a Hill Giant
+
+Hill Giant (AC: 14, HP: 24, INI: 0, BAB: +4, ATK: 1 giant club, DMG:
+2d6, ML: 7, LUCK: +6, MV: 90', XP: 1600)
+
+In general, a creatures BAB and LUCK will be based off HP. Feel free to
+adjust the numbers when making up your own opponents. For example,
+perhaps a hill giant is particularly clumsy and only has a +4 BAB
+instead of +5.
+
+| HP      | BAB         | LUCK |
+|---------|-------------|------|
+|   1-4   | 0           | +1   |
+|   5-8   | +1          | +2   |
+|   9-12  | +2          | +3   |
+|  13-16  | +3          | +4   |
+|  17-20  | +4          | +5   |
+|  21-25  | +5          | +6   |
+|  26-30  | +6          | +7   |
+|  31-36  | +7          | +8   |
+|  37-42  | +8          | +9   |
+|  43-48  | +9          | +10  |
+|  49-54  | +10         | +11  |
+|  55-60  | +11         | +12  |
+|  61-70  | +12         | +13  |
+|  71-80  | +13         | +14  |
+|  81-90  | +14         | +15  |
+|  91-100 | +15         | +16  |
+| 101-150 | +16         | +17  |
+| 151-200 | +17         | +18  |
