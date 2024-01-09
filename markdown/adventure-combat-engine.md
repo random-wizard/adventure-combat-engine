@@ -10,8 +10,18 @@ rules presented in this system.
 
 These rules are inspired by the work of Tom Moldvay who published a
 rules light game system in the 1980s. The rules presented here are an
-attempt to put together a similar game system but utilize the 5.1E SRD
-that was released under the Creative Commons license.
+attempt to put together a similar game system but utilizing a SRD that
+was not available to Tom back in those days.
+
+# License
+
+This work includes material taken from the System Reference Document
+5.1 ("SRD 5.1") by Wizards of the Coast LLC and available at https://dnd.wizards.com/resources/systems-reference-document.
+The SRD 5.1 is licensed under the Creative Commons Attribution 4.0
+International License available at
+https://creativecommons.org/licenses/by/4.0/legalcode.
+
+Any original text added for this work is in the public domain.
 
 # Definitions
 
@@ -474,7 +484,7 @@ control floating up or down.
 duplicate images of the caster.
 
 7. Partial Invisibility (Range:Touch, Duration:1 turn) If target attacks
-then the invisibility dissapates.
+then the invisibility dissipates.
 
 8. Strength (Range:Touch, Duration:1 hour per LVL) Raises STR score 1d8
 points. Maximum of 18.
