@@ -793,7 +793,7 @@ listen to caster as a friend. Targets will not obey crazy commands.
 dimension of mazes. Target can make a LUCK roll per round to escape
 back to their original point in the real world.
 
-3. Mirage Blast (Range:120', Duration= 1 round) Caster chooses an
+3. Mirage Blast (Range:120', Duration:1 round) Caster chooses an
 illusion of magic missile, fireball, or lightning bolt. Spell area of
 effect as per original spell. Each target gets a LUCK roll to
 disbelieve. If failed, treat spells as original spell.
@@ -802,7 +802,7 @@ disbelieve. If failed, treat spells as original spell.
 of caster appears. Caster can choose to cast spells through the
 duplicate.
 
-5. Chaotic Sensory Overload (Range:30", Duration:1 round per LVL) All
+5. Chaotic Sensory Overload (Range:30', Duration:1 round per LVL) All
 thinking creatures in a 40' x 40' area must make a LUCK roll or be
 confused for the duration of the spell. Even those that shake off the
 effect suffer -2 BAB.
