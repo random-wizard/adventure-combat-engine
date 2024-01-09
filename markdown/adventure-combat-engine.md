@@ -484,8 +484,8 @@ control floating up or down.
 6. Mirror Image (Range:Self, Duration:1 turn) Creates 1d4 illusory
 duplicate images of the caster.
 
-7. Partial Invisibility (Range:Touch, Duration:1 turn) If target attacks
-then the invisibility dissipates.
+7. Limited Invisibility (Range:Touch, Duration:1 turn) If target attacks
+then the invisibility dissipates. +5 AC and +3 LUCK.
 
 8. Strength (Range:Touch, Duration:1 hour per LVL) Raises STR score 1d8
 points. Maximum of 18.
@@ -524,8 +524,8 @@ DMG.
 8. Partial Illusion (Range:150', Duration:Special) Makes a visual
 illusion without any sound. Lasts until touched or disbelieved.
 
-9. Suggestion (Range:30', Duration:1 hour) Target believes suggestion.
-LUCK roll to disbelieve.
+9. Suggestion (Range:30', Duration:1 hour) Target believes suggestion
+unless target makes a LUCK roll.
 
 ## Mage Spells Rank 4
 
@@ -677,3 +677,132 @@ must make a LUCK roll or be banished to another dimension.
 
 4. Raise Dead (Range:30', Duration:Permanent) Target is brought back to
 life with 1 HP.
+
+# Mirager Spells
+
+## Mirager Spells Rank 1
+
+1. Charm Person (Range:120', Duration:1 hour) Target gets a LUCK roll or
+will listen to caster as a friend. Target will not obey crazy commands.
+
+2. Color Spray (Range:60', Duration:1 round) Targets in spray that are
+caster's LVL or below must make a LUCK roll or be unconscious for 2d4
+round.
+
+3. Darkness (Range:15', Duration:2 turns) Creates a 20' sphere of pitch
+black darkness that blocks non magical light.
+
+4. Detect Invisibility (Range:90', Duration:1/2 turn per LVL) See
+anything that is magical invisible.
+
+5. Hypnosis (Range:30', Duration:1 round per LVL) 1d6 targets are
+hypnotized if they fail a LUCK roll. Requires caster's undivided
+attention.
+
+6. Light (Range:60', Duration:1 turn per LVL) Magical light in the
+shape of a sphere floats and follows caster.
+
+7. Mask (Range:Self, Duration:3 turns) Caster projects a fake face of
+any humanoid creature the caster has seen.
+
+8. Partial Illusion (Range:150', Duration:Special) Makes a visual
+illusion without any sound. Lasts until touched or disbelieved.
+
+9. Wall of Fog (Range:30', Duration:1 turn) Wall of fog 10' high and 40'
+long.
+
+## Mirager Spells Rank 2
+
+1. Blind (Range:30', Duration:1 hour) Target must make a LUCK roll or be
+blinded for 3d4 rounds.
+
+2. Blur (Range:Self, Duration:1 turn) Caster gets +3 AC and +1 LUCK.
+
+3. Detect Magic (Range:60’, Duration:1 turn) Magical items will have
+a faint ethereal glow.
+
+4. Fog Cloud (Range:30’, Duration: 1 turn) Creates a cloud of fog in a
+20' radius. Anyone inside cloud must make a LUCK roll each round in the
+cloud or be disoriented for the round.
+
+5. Hypnosis (Range:30', Duration:1 round per LVL) 1d6 targets are
+hypnotized if they fail a LUCK roll. Requires caster's undivided
+attention.
+
+6. Limited Invisibility (Range:Touch, Duration:1 turn) If target attacks
+then the invisibility dissipates. +5 AC and +3 LUCK.
+
+7. Mirror Image (Range:Self, Duration:1 turn) Creates 1d4 illusory
+duplicate images of the caster.
+
+8. Misdirection (Range:30', Duration:1 round per LVL) Target believes
+misinformation if they fail a LUCK roll.
+
+9. Ventriloquism (Range:90', Duration:1) Caster can cause voice to
+emit from a different location within range.
+
+## Mirager Spells Rank 3
+
+1. Clairvoyance (Range:300’, Duration:1 turn) Can get a dream vision of
+an area within range.
+
+2. Dispel Magic (Range:120', Duration:Instant) Disrupts all magic at
+target point.
+
+3. Fear (Range:60', Duration:1 round per LVL) Targets in a 20' wide area
+must make a LUCK roll or flee in panic.
+
+4. Paralysis (Range:60', Duration:1 hour) Caster can paralyze double
+their HP worth of targets within range. Each target gets a LUCK roll per
+round to negate effects.
+
+5. Complete Illusion (Range ~ 120’, Duration:Special) Makes an illusion
+that fools all senses; Sight, Sound, Touch, Taste, Smell. Caster must
+use full concentration to maintain illusion.
+
+6. Suggestion (Range:30', Duration:1 hour) Target believes suggestion
+unless target makes a LUCK roll.
+
+## Mirager Spells Rank 4
+
+1. Charm Monster (Range:60', Duration:1 hour) Target gets a LUCK roll or
+will listen to caster as a friend. Target will not obey crazy commands.
+
+2. Confusion (Range:120', Duration:1 round) 2d4 creatures stand confused
+for one round unless LUCK roll is made.
+
+3. Emotion (Range~60', Duration: concentration) Caster chooses effect of
+fear, hate, hopelessness, or rage on target. Target gets a LUCK roll to
+shake off effect.
+
+4. Enhanced Invisibility (Range:Touch, Duration:1 turn) Target becomes
+invisible and keeps invisibility even after attacking. +5 AC and +3
+LUCK.
+
+5. Killer Nightmare (Range:30', Duration:1 round per LVL) Target must
+make a LUCK roll or believe they are being attacked by a nightmare
+demon. Creature has +4 BAB. If creature hits, the target dies of fright.
+
+## Mirager Spells Rank 5
+
+1. Mass Charm (Range:30', Duration:1 hour) Caster can charm double their
+HP worth of targets within range. Targets gets a LUCK roll or will
+listen to caster as a friend. Targets will not obey crazy commands.
+
+2. Maze (Range:30', Duration:1 turn) Target is teleported to another
+dimension of mazes. Target can make a LUCK roll per round to escape
+back to their original point in the real world.
+
+3. Mirage Blast (Range:120', Duration= 1 round) Caster chooses an
+illusion of magic missile, fireball, or lightning bolt. Spell area of
+effect as per original spell. Each target gets a LUCK roll to
+disbelieve. If failed, treat spells as original spell.
+
+4. Projected Image (Range:60', Duration:1 turn) Illusionary duplicate
+of caster appears. Caster can choose to cast spells through the
+duplicate.
+
+5. Chaotic Sensory Overload (Range:30", Duration:1 round per LVL) All
+thinking creatures in a 40' x 40' area must make a LUCK roll or be
+confused for the duration of the spell. Even those that shake off the
+effect suffer -2 BAB.
