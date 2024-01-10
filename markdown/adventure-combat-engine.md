@@ -843,6 +843,8 @@ decides to reduce the XP by 40.
 | 151-200 | +17         | +18  | 75000 |
 
 
+# Example Creatures
+
 Giant Ant (#:1d6, AC:17, HP:9, INI:+1, BAB:+2, ATK:1 bite, DMG:1d6,
 ML:12, LUCK:0, MV:180', XP:32) If a giant ant makes a successful bite
 attack, the target must make a LUCK roll or suffer an additional attack
