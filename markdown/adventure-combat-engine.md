@@ -812,31 +812,63 @@ effect suffer -2 BAB.
 Short hand abbreviations are used to list out creatures abilities and
 statistics. For example, a typical statistic block for a Hill Giant
 
-Hill Giant (AC: 14, HP: 24, INI: 0, BAB: +4, ATK: 1 giant club, DMG:
-2d6, ML: 7, LUCK: +6, MV: 90', XP: 1600)
+Hill Giant (#:1, AC:14, HP:24, INI:0, BAB:+2, ATK:1 giant club,
+DMG:2d6, ML:7, LUCK:+6, MV:90', XP:210)
 
-In general, a creatures BAB and LUCK will be based off HP. Feel free to
-adjust the numbers when making up your own opponents. For example,
-perhaps a hill giant is particularly clumsy and only has a +4 BAB
-instead of +5.
+In general, a creatures BAB, LUCK, and XP award will be based off HP.
+Feel free to adjust the numbers when making up your own opponents. For
+example, perhaps a hill giant is particularly clumsy and only has a +2
+BAB instead of +5. Since the hill giant is a little weaker, the referee
+decides to reduce the XP by 40.
 
-| HP      | BAB         | LUCK |
-|---------|-------------|------|
-|   1-4   | 0           | +1   |
-|   5-8   | +1          | +2   |
-|   9-12  | +2          | +3   |
-|  13-16  | +3          | +4   |
-|  17-20  | +4          | +5   |
-|  21-25  | +5          | +6   |
-|  26-30  | +6          | +7   |
-|  31-36  | +7          | +8   |
-|  37-42  | +8          | +9   |
-|  43-48  | +9          | +10  |
-|  49-54  | +10         | +11  |
-|  55-60  | +11         | +12  |
-|  61-70  | +12         | +13  |
-|  71-80  | +13         | +14  |
-|  81-90  | +14         | +15  |
-|  91-100 | +15         | +16  |
-| 101-150 | +16         | +17  |
-| 151-200 | +17         | +18  |
+| HP      | BAB         | LUCK | XP    |
+|---------|-------------|------|-------|
+|   1-4   | 0           | +1   | 8     |
+|   5-8   | +1          | +2   | 16    |
+|   9-12  | +2          | +3   | 32    |
+|  13-16  | +3          | +4   | 64    |
+|  17-20  | +4          | +5   | 128   |
+|  21-25  | +5          | +6   | 250   |
+|  26-30  | +6          | +7   | 500   |
+|  31-36  | +7          | +8   | 1000  |
+|  37-42  | +8          | +9   | 2000  |
+|  43-48  | +9          | +10  | 3000  |
+|  49-54  | +10         | +11  | 4000  |
+|  55-60  | +11         | +12  | 5000  |
+|  61-70  | +12         | +13  | 10000 |
+|  71-80  | +13         | +14  | 15000 |
+|  81-90  | +14         | +15  | 20000 |
+|  91-100 | +15         | +16  | 25000 |
+| 101-150 | +16         | +17  | 50000 |
+| 151-200 | +17         | +18  | 75000 |
+
+
+Giant Ant (#:1d6, AC:17, HP:9, INI:+1, BAB:+2, ATK:1 bite, DMG:1d6,
+ML:12, LUCK:0, MV:180', XP:32) If a giant ant makes a successful bite
+attack, the target must make a LUCK roll or suffer an additional attack
+roll from the giant ant as it tries to sting the target with it's
+stinger which does 1d6 on a successful hit.
+
+Dire Wolf (#:1d6, AC:14, HP:17, INI:+1, BAB:+4, ATK:1 bite, DMG: 2d4,
+ML:9, LUCK:+4, MV:180', XP:128) These evil wolves are almost as big as a
+small pony. Dire wolves can communicate simple concepts through howls to
+each other. Some goblins use dire wolves as mounts.
+
+Skeleton (#:1d6, AC:12, HP:4, INI:0, BAB:0, ATK:1 sword, DMG:1d8,
+ML: 12, LUCK:+1, MV:90', XP:16) Skeleton only suffers half damage from
+bladed weapons and only suffers 1 point of damage from piercing weapon
+damage.
+
+Goblin (#:1d6, AC:14, HP:4, INI:0, BAB:0, ATK:1 sword, DMG:1d8, ML:6,
+LUCK:0, MV:90', XP:8) Goblins are cowardly unless in large groups.
+Decrease their ML every time an ally is defeated. A lone goblin only
+has a ML of 2.
+
+Giant Rat (#:1d4, AC:13, HP:2, INI:0, BAB:0, ATK:1 bite, DMG:1d4,
+ML: 7, LUCK:0, MV:90', XP:8) 
+
+Werewolf (#:1, AC:11, HP:9, INI:+1, BAB:+2, ATK:1 sword, DMG:1d8,
+ML: 7, LUCK:+1, MV:90', XP:32) These evil creatures appear as normal
+humans an often try to trick anyone they encounter into letting their
+guard down. At night, as long as the moon is out, they can change into
+a dire wolf in 2 rounds. (Use Dire Wolf Stats and XP).
