@@ -866,8 +866,11 @@ LUCK:0, MV:90', XP:8) Goblins are cowardly unless in large groups.
 Decrease their ML every time an ally is defeated. A lone goblin only
 has a ML of 2.
 
-Giant Rat (#:1d4, AC:13, HP:2, INI:0, BAB:0, ATK:1 bite, DMG:1d4,
-ML: 7, LUCK:0, MV:90', XP:8) 
+Giant Rat (#:1d4, AC:13, HP:2, INI:0, BAB:0, ATK:1 bite, DMG:1d4, ML: 7,
+LUCK:0, MV:90', XP:8) Giant rats are the size of a small dog and are
+riddled with disease. On a successful bite, the target must make a LUCK
+roll or suffer shivers and weakness after a day which reduces BAB, and
+all ability scores by 1 for 1 week.
 
 Werewolf (#:1, AC:11, HP:9, INI:+1, BAB:+2, ATK:1 sword, DMG:1d8,
 ML: 7, LUCK:+1, MV:90', XP:32) These evil creatures appear as normal
